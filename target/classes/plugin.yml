@@ -1,0 +1,4 @@
+name: CustomMoney
+version: '1.0-SNAPSHOT'
+main: me.radar.custommoney.CustomMoney
+api-version: 1.19
